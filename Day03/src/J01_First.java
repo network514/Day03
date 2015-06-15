@@ -1,21 +1,20 @@
-
 public class J01_First {
-//	ÀÚµ¿ ÁÖ¼® ¿Ï¼º : Ctrl + shift + c
-//	1. ÀÌÅ¬¸³½º¿¡¼­ ÄÄÆÄÀÏÇÏ±â
-//		- ÀúÀåÇÏ¸é ÀÚµ¿À¸·Î ÄÄÆÄÀÏ µÈ´Ù.
-//		- ¸ðµç ¹®¼­ ÀúÀå : Ctrl + shift + s
-//	2. Å¬·¡½ºÆÄÀÏ ½ÇÇàÇÏ±â
-//		- ÁÂÃø »ó´Ü Run ¾ÆÀÌÄÜ Å¬¸¯
-//		- ´ÜÃàÅ° : Ctrl + F11
+//	ìžë™ ì£¼ì„ ì™„ì„± : Ctrl + shift + c
+//	1. ì´í´ë¦½ìŠ¤ì—ì„œ ì»´íŒŒì¼í•˜ê¸°
+//		- ì €ìž¥í•˜ë©´ ìžë™ìœ¼ë¡œ ì»´íŒŒì¼ ëœë‹¤.
+//		- ëª¨ë“  ë¬¸ì„œ ì €ìž¥ : Ctrl + shift + s
+//	2. í´ëž˜ìŠ¤íŒŒì¼ ì‹¤í–‰í•˜ê¸°
+//		- ì¢Œì¸¡ ìƒë‹¨ Run ì•„ì´ì½˜ í´ë¦­
+//		- ë‹¨ì¶•í‚¤ : Ctrl + F11
 	
 	public static void main(String[] args) {
-		System.out.println("µ¥ÀÌÅÍ Ãâ·Â");
-		/* system.out.println(""); // ¿¡·¯ÄÚµå
-		=> ¿¡·¯°¡ ¹ß»ýµÇ¸é »¡°£ÁÙÀÌ ¶ß°í 
-			ÇØ´ç ¼Ò½ºÆÄÀÏÀÌ ½ÇÇàµÇÁö ¾Ê´Â´Ù.*/
+		System.out.println("ë°ì´í„° ì¶œë ¥");
+		/* system.out.println(""); // ì—ëŸ¬ì½”ë“œ
+		=> ì—ëŸ¬ê°€ ë°œìƒë˜ë©´ ë¹¨ê°„ì¤„ì´ ëœ¨ê³  
+			í•´ë‹¹ ì†ŒìŠ¤íŒŒì¼ì´ ì‹¤í–‰ë˜ì§€ ì•ŠëŠ”ë‹¤.*/
 		int a; 
-//		=> °æ°í°¡ ¹ß»ýµÇ¸é ³ë¶õÁÙÀÌ ¶á´Ù.
-//		=> °æ°í´Â ¹ß»ýµÇ´õ¶óµµ ½ÇÇàÇÏ´Â µ¥¿¡´Â 
-//			¹®Á¦°¡ ¾ø´Ù. 
+//		=> ê²½ê³ ê°€ ë°œìƒë˜ë©´ ë…¸ëž€ì¤„ì´ ëœ¬ë‹¤.
+//		=> ê²½ê³ ëŠ” ë°œìƒë˜ë”ë¼ë„ ì‹¤í–‰í•˜ëŠ” ë°ì—ëŠ” 
+//			ë¬¸ì œê°€ ì—†ë‹¤. 
 	}
 }
